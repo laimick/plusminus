@@ -12,6 +12,7 @@ namespace chose
             Console.WriteLine("Ввести В");
             b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите операцию(+,-,*,/.");
+<<<<<<< HEAD
             switch (Console.ReadLine())
             {
                 case "*":
@@ -40,6 +41,9 @@ namespace chose
                     }
 
             }
+=======
+          
+>>>>>>> vvod
         }
     }
 }
