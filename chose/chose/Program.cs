@@ -14,6 +14,12 @@ namespace chose
             Console.WriteLine("Введите операцию(+,-,*,/.");
             switch (Console.ReadLine())
             {
+                case "*":
+                    {
+                        Console.WriteLine("- выполнить операцию “*”");
+                        Console.WriteLine($"{a} * {b} = {0}", a * b);
+                        break;
+                    }
                 case "+":
                 {
                     Console.WriteLine("- выполнить операцию “+”");
@@ -26,6 +32,7 @@ namespace chose
                         Console.WriteLine($"{a} - {b} = {0}",a - b);
                         break;
                     }
+
             }
         }
     }
