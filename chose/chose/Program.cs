@@ -23,19 +23,7 @@ namespace chose
                 case "-":
                     {
                         Console.WriteLine("- выполнить операцию “-”");
-                        Console.WriteLine(a - b);
-                        break;
-                    }
-                case "*":
-                    {
-                        Console.WriteLine("- выполнить операцию “*”");
-                        Console.WriteLine(a * b);
-                        break;
-                    }
-                case "/":
-                    {
-                        Console.WriteLine("- выполнить операцию “/”");
-                        Console.WriteLine(a/ b);
+                        Console.WriteLine($"{a} - {b} = {0}",a - b);
                         break;
                     }
             }
