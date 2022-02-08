@@ -20,7 +20,24 @@ namespace chose
                     Console.WriteLine(a + b);
                     break;
                 }
-               
+                case "-":
+                    {
+                        Console.WriteLine("- выполнить операцию “-”");
+                        Console.WriteLine(a - b);
+                        break;
+                    }
+                case "*":
+                    {
+                        Console.WriteLine("- выполнить операцию “*”");
+                        Console.WriteLine(a * b);
+                        break;
+                    }
+                case "/":
+                    {
+                        Console.WriteLine("- выполнить операцию “/”");
+                        Console.WriteLine(a/ b);
+                        break;
+                    }
             }
         }
     }
