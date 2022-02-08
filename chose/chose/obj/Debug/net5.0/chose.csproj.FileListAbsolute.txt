@@ -1,0 +1,16 @@
+C:\teste\newloc\chose\chose\bin\Debug\net5.0\chose.exe
+C:\teste\newloc\chose\chose\bin\Debug\net5.0\chose.deps.json
+C:\teste\newloc\chose\chose\bin\Debug\net5.0\chose.runtimeconfig.json
+C:\teste\newloc\chose\chose\bin\Debug\net5.0\chose.runtimeconfig.dev.json
+C:\teste\newloc\chose\chose\bin\Debug\net5.0\chose.dll
+C:\teste\newloc\chose\chose\bin\Debug\net5.0\ref\chose.dll
+C:\teste\newloc\chose\chose\bin\Debug\net5.0\chose.pdb
+C:\teste\newloc\chose\chose\obj\Debug\net5.0\chose.csproj.AssemblyReference.cache
+C:\teste\newloc\chose\chose\obj\Debug\net5.0\chose.GeneratedMSBuildEditorConfig.editorconfig
+C:\teste\newloc\chose\chose\obj\Debug\net5.0\chose.AssemblyInfoInputs.cache
+C:\teste\newloc\chose\chose\obj\Debug\net5.0\chose.AssemblyInfo.cs
+C:\teste\newloc\chose\chose\obj\Debug\net5.0\chose.csproj.CoreCompileInputs.cache
+C:\teste\newloc\chose\chose\obj\Debug\net5.0\chose.dll
+C:\teste\newloc\chose\chose\obj\Debug\net5.0\ref\chose.dll
+C:\teste\newloc\chose\chose\obj\Debug\net5.0\chose.pdb
+C:\teste\newloc\chose\chose\obj\Debug\net5.0\chose.genruntimeconfig.cache
